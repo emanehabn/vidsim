@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: esim-py
+Version: 0.0.1
+Summary: Python bindings for ESIM.
+Author: Daniel Gehrig
+Author-email: daniel.gehrig18@gmail.com
